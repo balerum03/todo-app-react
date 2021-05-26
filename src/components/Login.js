@@ -70,6 +70,4 @@ const Loging = () => {
 	}
 }
 
-// const ExtendedLogin = SessionCheck(Loging);
-
 export default Loging;

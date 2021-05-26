@@ -1,6 +1,5 @@
 import React from 'react';
 import Navigation from './Navigation';
-// import SessionCheck from '../HOCs/SessionCheck';
 
 const Layout = ({component}) => {
   return(
@@ -13,6 +12,4 @@ const Layout = ({component}) => {
   );
 }
 
-
-// const ExtendedLayout = SessionCheck(Layout);
 export default Layout;
